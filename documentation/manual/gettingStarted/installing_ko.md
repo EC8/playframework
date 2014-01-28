@@ -5,7 +5,7 @@
 
 Play framework를 실행하려면 JDK 6 이상이 필요하다(http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 
-> MacOS를 사용한다면 자바는 내장돼 있다. Linux를 쓴다면 Sun JDK나 OpenJDK 중의 하나를 사용할 수 있다(많은 리눅스 배포판에서 gcj를 사용하지 않았다면 기본 명령어는 Java이다). Windows를 사용하면 최신 버전의 JDK 패키지를 다운로드 받아 설치하면 된다.
+> MacOS를 사용한다면 자바는 내장돼 있다. Linux를 쓴다면 Sun JDK나 OpenJDK 중의 하나를 사용할 수 있다(많은 리눅스 배포판에서 gcj를 사용하지 않는다면 기본 명령어는 Java이다). Windows를 사용하면 최신 버전의 JDK 패키지를 다운로드 받아 설치하면 된다.
 
 > Note, Java 7 pre update 9 on MacOS has a bug that causes problems with futures and iteratees, including making large file uploads hang.  If using Java 7 on MacOS, make sure you are using the latest version.
 

@@ -15,7 +15,7 @@ Play framework를 실행하려면 JDK 6 이상이 필요하다(http://www.oracle
 
 ### Typesafe Activator 사용하기
 
-Play는 [Typesafe Activator](http://typesafe.com/activator)를 사용해서도 설치할 수 있다. 현재 페이지는 Play standalone 배포판에 대한 설치 문서이며 Typesafe Activator를 사용하려면 [링크](http://typesafe.com/platform/getstarted)를 따라가서 Play를 설치할 수 있다.
+Play를 [Typesafe Activator](http://typesafe.com/activator)를 사용해서 설치할 수 있다. 현재 페이지는 Play standalone 배포판에 대한 설치 문서이고 Typesafe Activator를 사용하려면 [링크](http://typesafe.com/platform/getstarted)를 따라가 Play를 설치해볼 수 있다.
 
 ### Play standalone 사용하기
 

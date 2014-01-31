@@ -11,13 +11,13 @@ Play framework를 실행하려면 JDK 6 이상이 필요하다(http://www.oracle
 
 현재 경로에서 'java'와 'javac'가 실행되면 된다. (shell 프롬프트에서 `java -version`과 `javac -version`을 입력해서 확인할 수 있다.)
 
-## Download the binary package
+## 바이너리 패키지 다운로드
 
-### Using Typesafe Activator
+### Typesafe Activator 사용하기
 
-Play can be installed using [Typesafe Activator](http://typesafe.com/activator).  The documentation on this page is about installing the Play standalone distribution.  If you would like to use Typesafe Activator, then follow the instructions [here](http://typesafe.com/platform/getstarted) to install Play.
+Play는 [Typesafe Activator](http://typesafe.com/activator)를 사용해서도 설치할 수 있다. 현재 페이지는 Play standalone 배포판에 대한 설치 문서이며 Typesafe Activator를 사용하려면 [링크](http://typesafe.com/platform/getstarted)를 따라가서 Play를 설치할 수 있다.
 
-### Using Play standalone
+### Play standalone 사용하기
 
 Download the latest [Play standalone distribution](http://www.playframework.com/download) and extract the archive to a location where you have both read **and write** access. (Running `play` writes some files to directories within the archive, so don't install to `/opt`, `/usr/local` or anywhere else you’d need special permission to write to.)
 
